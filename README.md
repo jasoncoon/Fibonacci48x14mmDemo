@@ -4,7 +4,7 @@ Demo Arduino firmware for Fibonacci48 x 14mm
 
 ![Fibonacci48 x 14mm](f48x14mm.png)
 
-More info: https://evilgeniuslabs.org/Fibonacci4814mm
+More info: https://evilgeniuslabs.org/fibonacci48-14mm
 
 ### Dependencies
 
